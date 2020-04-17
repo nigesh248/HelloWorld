@@ -19,5 +19,10 @@ public class HelloWorldActivity extends Activity {
 		
 		return true;
 	}
+	
+		public boolean Test() {
+		
+		return true;
+	}
 
 }
