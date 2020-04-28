@@ -10,6 +10,10 @@ public class HelloWorldActivity extends Activity {
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_hello_world);
+			
+	int i=1;
+	i=+1;
+	
 	}
 
 	
@@ -17,10 +21,7 @@ public class HelloWorldActivity extends Activity {
 	
 	
 	
-	
-	int i=1;
-	i=+1;
-	
+
 	
 	
 	
