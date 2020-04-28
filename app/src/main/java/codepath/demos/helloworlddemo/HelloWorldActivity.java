@@ -18,7 +18,8 @@ public class HelloWorldActivity extends Activity {
 	
 	
 	
-	
+	int i=1;
+	i=+1;
 	
 	
 	
