@@ -17,11 +17,6 @@ public class HelloWorldActivity extends Activity {
 	
 	
 	
-
-	
-	
-	
-	
 	
 	
 	
