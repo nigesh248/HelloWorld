@@ -3,7 +3,7 @@ package codepath.demos.helloworlddemo;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
-import junit.Test;
+import org.junit.Test;
 
 public class HelloWorldActivity extends Activity {
 
