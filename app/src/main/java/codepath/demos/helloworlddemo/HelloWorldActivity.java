@@ -3,6 +3,7 @@ package codepath.demos.helloworlddemo;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
+import org.junit.jupiter.api.Test;
 
 public class HelloWorldActivity extends Activity {
 
@@ -12,14 +13,6 @@ public class HelloWorldActivity extends Activity {
 		setContentView(R.layout.activity_hello_world);	
 	}
 
-	
-	
-	
-	
-	
-	
-	
-	
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
 		// Inflate the menu; this adds items to the action bar if it is present.
@@ -29,5 +22,11 @@ public class HelloWorldActivity extends Activity {
 		return true; 
 		
 	}
+	
+	    @Test
+    public void sampleUnitTest() {
+
+        assertEquals(0,1);
+    }
 
 }
