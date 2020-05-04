@@ -26,7 +26,7 @@ public class HelloWorldActivity extends Activity {
 	    @Test
     public void sampleUnitTest() {
 
-        assertEquals(0,1);
+        Assert.assertEquals(0,1);
     }
 
 }
