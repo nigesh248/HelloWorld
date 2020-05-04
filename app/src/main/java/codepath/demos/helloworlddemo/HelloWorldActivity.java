@@ -4,7 +4,7 @@ import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
 import org.junit.Test;
-import org.junit.Assert;
+import static org.junit.Assert.*;
 
 public class HelloWorldActivity extends Activity {
 
