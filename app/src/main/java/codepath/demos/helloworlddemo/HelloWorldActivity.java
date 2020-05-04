@@ -4,6 +4,7 @@ import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
 import org.junit.Test;
+import org.junit.Assert;
 
 public class HelloWorldActivity extends Activity {
 
@@ -26,7 +27,7 @@ public class HelloWorldActivity extends Activity {
 	    @Test
     public void sampleUnitTest() {
 
-        Assert.assertEquals(0,1);
+        assertEquals(0,1);
     }
 
 }
