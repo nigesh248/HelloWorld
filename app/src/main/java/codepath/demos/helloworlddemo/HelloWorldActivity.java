@@ -3,8 +3,7 @@ package codepath.demos.helloworlddemo;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
-import org.junit.Test;
-import static org.junit.Assert.*;
+
 
 public class HelloWorldActivity extends Activity {
 
@@ -24,10 +23,5 @@ public class HelloWorldActivity extends Activity {
 		
 	}
 	
-	    @Test
-    public void sampleUnitTest() {
-
-        assertEquals("yyy","jhghvhg");
-    }
 
 }
