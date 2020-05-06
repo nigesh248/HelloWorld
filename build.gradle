@@ -6,6 +6,9 @@ buildscript {
     dependencies {
         classpath 'com.android.tools.build:gradle:3.0.1'
     }
+    defaultConfig {
+        multiDexEnabled true
+       }
 }
 
 allprojects {
@@ -14,6 +17,4 @@ allprojects {
         google()
     }
 }
-defaultConfig {
-        multiDexEnabled true
-       }
+
