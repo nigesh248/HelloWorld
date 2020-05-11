@@ -5,7 +5,17 @@ public class TestCases
 {
     @Test
     public void sampleUnitTest() {
-
         assertEquals(1,1);
+    }
+    @Test
+    public void sampleUnitTest() {
+
+        assertEquals("hai","hai");
+    }
+    
+        @Test
+    public void sampleUnitTest() {
+
+        assertEquals(1,0);
     }
 }
