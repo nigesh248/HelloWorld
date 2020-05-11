@@ -8,13 +8,13 @@ public class TestCases
         assertEquals(1,1);
     }
     @Test
-    public void sampleUnitTest() {
+    public void sampleUnitTest2() {
 
         assertEquals("hai","hai");
     }
     
         @Test
-    public void sampleUnitTest() {
+    public void sampleUnitTest3() {
 
         assertEquals(1,0);
     }
