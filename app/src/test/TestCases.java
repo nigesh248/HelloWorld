@@ -16,6 +16,6 @@ public class TestCases
     @Test
     public void sampleUnitTest3() {
 
-        assertEquals(5,5);
+        assertEquals(1,5);
     }
 }
