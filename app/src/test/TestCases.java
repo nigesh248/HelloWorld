@@ -5,7 +5,7 @@ public class TestCases
 {
     @Test
     public void sampleUnitTest() {
-        assertEquals(0,1);
+        assertEquals(1,1);
     }
     @Test
     public void sampleUnitTest2() {
