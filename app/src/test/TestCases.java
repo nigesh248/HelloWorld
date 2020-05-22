@@ -12,10 +12,5 @@ public class TestCases
 
         assertEquals("hai","hai");
     }
-    
-    @Test
-    public void sampleUnitTest3() {
 
-        assertEquals(1,5);
-    }
 }
